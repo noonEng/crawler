@@ -85,7 +85,7 @@ The project is built using `express` and `pug`. To run it locally follow these s
   1. Install `node >= 8`
   1. Clone the project
     ```
-    
+    https://github.com/noonEng/crawler.git
     ```
   1. Install npm dependencies
     ```
